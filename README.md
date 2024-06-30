@@ -31,7 +31,7 @@ Follow the instructions below to complete the assignment.
 ### Steps
 
 1. **Create a New GitHub Repository**
-   - Create a new repository on your GitHub account. Name it something relevant to this assignment, such as `Linux-Answers`.
+   - Create a new repository on your GitHub account. Name it something relevant to this assignment, such as `FirstName-Linux-Answers`.
 
 2. **Clone Your Repository**
    - Clone your newly created repository to your local machine.
@@ -41,7 +41,7 @@ Follow the instructions below to complete the assignment.
 
 4. **Answer the Questions**
    - In the repository you just created, create a new file named `linux_answers.md`.
-   - Inside this file, answer the questions provided in the `linux_questions` file from the `Robotics-Session01` repository.
+   - Inside this file, answer the questions provided in the `linux_questions.md` file from the `Robotics-Session01` repository.
 
 5. **Format Your Answers**
    - Ensure your answers are clearly marked and formatted properly. Follow the example format below.
@@ -59,17 +59,18 @@ Follow the instructions below to complete the assignment.
 
 3. **Question 3:**
    - Answer to question 3.
-
 ...
-
+```
 6. **Commit and Push Your Changes**
-   - Ensure you use th correct format for the commit messages.
+   - Ensure you use the correct format and conventions for the commit messages.
 
-7. **Send the Repository Link**
-   - Send the link to your GitHub repository to your instructor via Discord.
+7. **Solve the `linux-task.md` found in the `Robotics-Session01` repository. Create a bash file and add it to the same repository.** 
+
+8. **Send the Repository Link**
+   - Send the link to your GitHub repository to your instructors via Discord.
 
 
 ## Deadline
-Please complete the assignment by next session.
+Please complete the assignment **by next session**.
 
 Good Luck and Happy coding!!
