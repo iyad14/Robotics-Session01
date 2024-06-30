@@ -1,3 +1,5 @@
+# Linux Questions
+## Answer the following questions (brief answers, not need for huge paragraphs)
 1. Explain the difference between `ls -l` and `ls -a`. What specific information does each option provide?
 
 2. Describe a scenario where using `mkdir` might fail and how to handle such a failure programmatically.
