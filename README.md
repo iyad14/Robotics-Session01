@@ -70,6 +70,11 @@ Follow the instructions below to complete the assignment.
    - Send the link to your GitHub repository to your instructors via Discord.
 
 
+## Part 3: Research
+
+1. **Research and play around with "Revert commit" and "Reset commit".**
+
+
 ## Deadline
 Please complete the assignment **by next session**.
 
