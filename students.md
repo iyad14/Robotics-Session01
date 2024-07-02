@@ -115,12 +115,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Rony Kaddoum
 
-- **Age:**
-- **University:**
+- **Age:** 20
+- **University:** USEK
 - **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+  - **Things I like:** Gaming, Astrophysics, Cats
+  - **Things I hate:** Can't say.
+  - **Fun fact about me:** I like burger
 
 ---
 
