@@ -1,6 +1,7 @@
 # Student Introductions
 
 ## Instructions:
+
 Find your name below and introduce yourself by providing the following information.
 
 ### Ahmad Chaachouh
@@ -38,12 +39,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Firas Dimashki
 
-- **Age:**
-- **University:**
-- **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+- **Age: 22**
+- **University: NDU**
+- **Introduction: Hi, my name is Firas and I am a CCE student in NDU.**
+  - **Things I like: Video Gaming and Cars**
+  - **Things I hate: Footbal and HDDs**
+  - **Fun fact about me: I am currently working as a Flutter full-stack developer.**
 
 ---
 
@@ -132,3 +133,4 @@ Find your name below and introduce yourself by providing the following informati
   - **Things I like:**
   - **Things I hate:**
   - **Fun fact about me:**
+
