@@ -5,12 +5,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Ahmad Chaachouh
 
-- **Age:**
-- **University:**
-- **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+- **Age:23**
+- **University:USJ**
+- **Introduction:I am Ahmad**
+  - **Things I like:Elden Ring**
+  - **Things I hate:Elden Ring**
+  - **Fun fact about me:I am Ahmad**
 
 ---
 
