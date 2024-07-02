@@ -94,12 +94,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Rabih HusseinKiwan
 
-- **Age:**
-- **University:**
-- **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+- **Age:22**
+- **University:UOB**
+- **Introduction:Mechatronics**
+  - **Things I like:Smoking**
+  - **Things I hate:GIT**
+  - **Fun fact about me:I love to study very hard**
 
 ---
 
