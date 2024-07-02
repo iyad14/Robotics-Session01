@@ -33,7 +33,7 @@ Find your name below and introduce yourself by providing the following informati
 - **Introduction:**
   - **Things I like:I like hunting**
   - **Things I hate:I hate nothing**
-  - **Fun fact about me:Shaashouh is watching**
+  - **Fun fact about me:Shaashouh is watching, no fun fact**
 
 ---
 
