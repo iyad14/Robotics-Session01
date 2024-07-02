@@ -72,12 +72,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Makram Youssef Ghraizi
 
-- **Age:**
-- **University:**
-- **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+- **Age:20**
+- **University: University of Balamand**
+- **Introduction: Mechatronics Engineer**
+  - **Things I like: Basketball**
+  - **Things I hate: rabih smoking**
+  - **Fun fact about me: Unemployed**
 
 ---
 
