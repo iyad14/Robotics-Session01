@@ -50,12 +50,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Johnny Chawki Hanna
 
-- **Age:**
-- **University:**
+- **Age:22**
+- **University:Lebanese University**
 - **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+  - **Things I like:Games**
+  - **Things I hate:Nothing? maybe eating beme**
+  - **Fun fact about me:i don't know how to answer these questions**
 
 ---
 
