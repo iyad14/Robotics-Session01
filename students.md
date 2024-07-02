@@ -17,12 +17,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Anthony Bassil
 
-- **Age:**
-- **University:**
+- **Age:24**
+- **University:USJ**
 - **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+  - **Things I like:Football**
+  - **Things I hate:Presenations**
+  - **Fun fact about me:double major in physics and CCE**
 
 ---
 
