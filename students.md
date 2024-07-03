@@ -83,12 +83,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Mohamad Nasser
 
-- **Age:**
-- **University:**
+- **Age:** 21
+- **University:** LAU
 - **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+  - **Things I like:** Video Games
+  - **Things I hate:** Olives
+  - **Fun fact about me:** idk
 
 ---
 
