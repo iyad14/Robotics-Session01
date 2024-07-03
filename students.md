@@ -104,12 +104,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Razan Hmede
 
-- **Age:**
-- **University:**
-- **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+- **Age:**20
+- **University:**LAU
+- **Introduction:**3rd year mechatronics engineering
+  - **Things I like:**reading
+  - **Things I hate:**waking up early
+  - **Fun fact about me:**i like coffee
 
 ---
 
