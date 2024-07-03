@@ -28,12 +28,12 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Anthony El Moundalak
 
-- **Age:**
-- **University:**
+- **Age:21**
+- **University:USJ-ESIB**
 - **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
-  - **Fun fact about me:**
+  - **Things I like:I like hunting**
+  - **Things I hate:I hate nothing**
+  - **Fun fact about me:Shaashouh is watching, no fun fact**
 
 ---
 
