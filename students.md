@@ -127,10 +127,10 @@ Find your name below and introduce yourself by providing the following informati
 
 ### Sami Trad
 
-- **Age:**
-- **University:**
+- **Age:** 20
+- **University:** LAU
 - **Introduction:**
-  - **Things I like:**
-  - **Things I hate:**
+  - **Things I like:** Football
+  - **Things I hate:** Homework
   - **Fun fact about me:**
 
